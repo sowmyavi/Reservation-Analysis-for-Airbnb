@@ -26,8 +26,8 @@ The list represents the average value of the room types corresponding to the Nei
 <img width="1332" alt="Screenshot 2023-11-04 at 5 53 02 PM" src="https://github.com/sowmyavi/Reservation-Analysis-for-Airbnb/assets/143238723/8df623b2-1a2d-4c03-ad04-11d7137c4781">
 
 ## EDA
-Using a variety of visualization tools and statistical graphs, EDA is a method for analyzing data sets. What data can reveal beyond formal modeling or hypothesis testing tasks is demonstrated by EDA. It offers a deeper comprehension of the data and the interdependence of its properties. It aids in the detection and management of outliers and missing values. It facilitates our ability to work with data sources and get the information we require from them. Our comprehension of the problem statement improves.
-To help us grasp the data in this problem, we have created some visuals.
+Using a variety of visualization tools and statistical graphs, EDA is a method for analyzing data sets. What data can reveal beyond formal modeling or hypothesis testing tasks is demonstrated by EDA. It offers a deeper comprehension of the data and the interdependence of its properties. It aids in the detection and management of outliers and missing values. It facilitates our ability to work with data sources and get the information we require from them. Our comprehension of the problem statement improves. To help us grasp the data in this problem, we have created some visuals.
+
 Outlier Data:
 Outliers are the data points that affect the data at the model building which gives wrong predictions. The accuracy of the model is affected.
 Here in our data, we are taking price and availability_365 for checking outliers.
