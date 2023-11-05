@@ -31,6 +31,7 @@ Using a variety of visualization tools and statistical graphs, EDA is a method f
 Outlier Data:
 Outliers are the data points that affect the data at the model building which gives wrong predictions. The accuracy of the model is affected.
 Here in our data, we are taking price and availability_365 for checking outliers.
+
 <img width="601" alt="Screenshot 2023-11-04 at 5 54 57 PM" src="https://github.com/sowmyavi/Reservation-Analysis-for-Airbnb/assets/143238723/30aa61ec-75b2-42aa-83a9-906ab9c8a34e">
 ## Visualizations 
 We have graphically displayed the average cost of the various rooms for the various Neighborhood Groups in this bar plot.
