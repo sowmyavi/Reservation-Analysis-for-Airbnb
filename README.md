@@ -21,6 +21,7 @@ Airbnb is the largest platform to find and rent homestays and apartments for vac
 The box plot represents the Price Column showing too many outliers present in the data.
 So, we will use the median in place of zero values and NA values.
 <img width="763" alt="Screenshot 2023-11-04 at 5 51 05 PM" src="https://github.com/sowmyavi/Reservation-Analysis-for-Airbnb/assets/143238723/f391ae83-6d7b-459a-9f6e-920438d632b8">
+
 The list represents the average value of the room types corresponding to the Neighborhood group. The list can give us the estimate of price listing in different areas.
 <img width="1332" alt="Screenshot 2023-11-04 at 5 53 02 PM" src="https://github.com/sowmyavi/Reservation-Analysis-for-Airbnb/assets/143238723/8df623b2-1a2d-4c03-ad04-11d7137c4781">
 
